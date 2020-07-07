@@ -1,6 +1,6 @@
-.. _When-To-Start_Planning:
+.. _When-to-start_planning:
 
-When to Start Planning
+When to start planning
 ----------------------
 For events such as a Collaborations Workshop, it’s important that the idea and feasibility stages start early – anywhere from 9 to 12 months before the event –  to allow enough time for promotion, calls for sponsorship, registration, calls for participation, and to get the date into your target audience’s diaries early before other events are announced. 
 
