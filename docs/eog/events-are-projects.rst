@@ -1,6 +1,6 @@
-.. _Events-Are-Projects:
+.. _Events-are-projects:
 
-Events are Projects
+Events are projects
 ===================
 Events are projects, so the stages in a project also apply to an event. In fact, there are some stages around the running of the events which are of particular importance to give the event context and buy-in from other stakeholders.
 
